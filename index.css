@@ -82,7 +82,7 @@ html {
   
   /* Style the header */
   .header {
-    background-color: #555353;
+    background-color: #e6e6e6;
     padding: 30px 40px;
     color: white;
     text-align: center;
@@ -123,3 +123,8 @@ html {
   .addBtn:hover {
     background-color: #bbb;
   }
+
+  .copyright {
+    align-items: center;
+    
+}
